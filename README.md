@@ -62,7 +62,7 @@ http://localhost:8000/
 
 ## Live Link and Relevant Links
 
-- Live Demo: https://abdullah-2r.github.io/g3-architect-website/
+- Live Demo: https://abdullah-2r.github.io/practice-project/
 - GitHub Repository: https://github.com/abdullah-2r/g3-architect-website
 - Project Assets: `images/`
 - Stylesheet: `styles/architects.css`
